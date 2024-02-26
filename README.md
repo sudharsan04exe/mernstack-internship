@@ -1,2 +1,2 @@
 # mernstack-internship
-*26 feb 2024
+## 26 feb 2024
